@@ -7,6 +7,10 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muizzm&label=Muizz's%20Profile%20Views%20&color=dc143c&style=plastic" alt="muizzm" /> </p>
 
+Resume
+<p align="center">
+	<a href="https://drive.google.com/file/d/1fNssl5XIYmiRHpea45kWk2HVTG3mxceN/view?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
 🙋‍♀️ Let's Connect
 
 <p align="center">
