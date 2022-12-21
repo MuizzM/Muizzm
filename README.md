@@ -1,6 +1,6 @@
 <h1 align="center">Hello , I'm Muizz Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Data-Storyteller%20|%20Data-Driven%20|%20Data%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Data-Storyteller%20|%20Data-Driven%20|%20Data%20Enthusiast;Forever%20Seeking%20new%20Knowledge&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">As a software engineer, I have a strong foundation in computer science principles and programming languages including Java, C++, and Python.</h4>
