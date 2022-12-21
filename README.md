@@ -9,7 +9,7 @@
 
 Resume
 <p align="center">
-	<a href="https://drive.google.com/file/d/1fNssl5XIYmiRHpea45kWk2HVTG3mxceN/view?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://drive.google.com/file/d/1fNssl5XIYmiRHpea45kWk2HVTG3mxceN/view?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/set-as-resume.png" alt="Resume"/></a>
 
 🙋‍♀️ Let's Connect
 
