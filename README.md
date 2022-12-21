@@ -1,20 +1,22 @@
 <h1 align="center">Hello , I'm Muizz Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;DS%20|%20DSA%20|%20Data%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Data-Storyteller%20|%20Data-Driven%20|%20Data%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">As a software engineer, I have a strong foundation in computer science principles and programming languages including Java, C++, and Python.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muizzm&label=Muizz's%20Profile%20Views%20&color=dc143c&style=plastic" alt="muizzm" /> </p>
-## 🙋‍♀️ Let's Connect
+
+🙋‍♀️ Let's Connect
 
 <p align="center">
+	<a href="https://www.linkedin.com/in/muizz-m/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:Muizzm21@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Muizzm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/muizz-m/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
 	
 </p>
-## 🔥 Streak Stats
+🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muizzm&theme=algolia" alt="muizzm" /></p>
 
